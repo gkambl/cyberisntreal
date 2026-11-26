@@ -102,7 +102,7 @@ After each mission, players receive:
 
 ## License
 
-Educational use project - feel free to modify and extend for learning purposes.
+MIT License. See [LICENSE](LICENSE).
 
 ## Contributing
 
